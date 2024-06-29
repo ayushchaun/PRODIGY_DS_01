@@ -1,0 +1,1 @@
+This is a POWER BI report file for task_01 of data science of prodigy infotech internship. In which i concluded into bar charts of world population based on gender ratio and age ratio. I used several formatting options to enhance visibility of charts.
